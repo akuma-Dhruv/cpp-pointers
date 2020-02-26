@@ -11,7 +11,5 @@ int main(){
   changeSign(&a);
   cout << a << endl;
 
-
-
 return 0;
 }
